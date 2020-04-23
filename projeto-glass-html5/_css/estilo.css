@@ -7,7 +7,7 @@
 
 body{
 	font-family: Arial, sans-serif;
-	background-color: #dddddd;
+	background-color: #bbbbbb;
 	color: rgba(0, 0, 0, 1);
 }
 
@@ -173,7 +173,7 @@ article#noticia-principal h2{
 
 header#cabecalho-artigo h1{
 	margin-bottom: 0px;
-	margin-top: 0px;
+	margin-top: 0pt;
 	font-family: "FonteLogo", sans-serif;
 	font-size: 20pt;
 	color: #606060;
@@ -181,7 +181,7 @@ header#cabecalho-artigo h1{
 
 header#cabecalho-artigo h2{
 	margin: 0px;
-	font-size: 13px;
+	font-size: 13pt;
 	color: #cecece;
 	background-color: #ffffff;
 }
@@ -192,6 +192,7 @@ header#cabecalho-artigo h3{
 }
 
 .direita{
+	font-size: 8pt;
 	text-align: right;
 }
 
